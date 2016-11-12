@@ -1,0 +1,29 @@
+{
+  "name": "reminder",
+  "version": "1.0.0",
+  "dependencies": {
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "gulp": "latest"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "description": "reminder app",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "reminder"
+  },
+  "keywords": [
+    "mean",
+    "node",
+    "express",
+    "mongo",
+    "javascript",
+    "angular"
+  ],
+  "author": "Anne O'Sullivan",
+  "license": "ISC"
+}
